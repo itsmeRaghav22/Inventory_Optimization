@@ -1,0 +1,1 @@
+SELECT FROM stocks   -- stocks = table name
